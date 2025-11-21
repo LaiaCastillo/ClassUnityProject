@@ -1,3 +1,5 @@
+# Resumen
+El juego se llama Eres Un Bicho Bola El Juego, va de que efectivamente eres un bichobola y exploras el mundo de los bichos.
 # Funcionalidades
 - Movimiento del personaje + cambio de gravedad (AWSD+flechas)
 - Sistema de vida + Muerte del player
@@ -32,5 +34,5 @@ Click o Enter-> Pasar dialogos
 
 ## Errores
 - El sonido del dialogo iba de puta maadre y derrepente no se escuchaba ns si es pq se me ha bugueado oq pero no he tocado nada
-- Build No para de darme error y son las 12.41
+- Build No para de darme error y son las 12.41 -> despues de 1h y 30 mins he encontrado que el error era que no habia puesto el # Unity editor
 - Reestart a veces se buguea y apareces en medio de un bloque (en un principio esta arreglado)
